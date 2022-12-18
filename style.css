@@ -507,6 +507,18 @@ h1{
 i{
     color: gray;
 }
+.long-logo .blue{
+    color: blue;
+}
+.long-logo .orange{
+    color: orange;
+}
+.long-logo .red{
+    color: red;
+}
+.long-logo .green{
+    color: green;
+}
 .right{
     width: 40%;
     border-left:  1px solid rgb(198, 198, 240);
