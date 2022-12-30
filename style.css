@@ -648,4 +648,51 @@ i{
 }
 .see-more i{
     padding-top: 5px;
+}footer{
+    padding-left: 20px;
+    display: flex;
+    margin-top: 20px;
+    flex-direction: column;
+    background-color: rgba(238, 236, 236, 0.829);
+}
+.top-footer{
+    display: flex;
+    padding: 20px;
+    border-bottom:  1px solid rgb(198, 198, 240);
+}
+.lagos{
+    padding: 0 20px;
+}
+.niger{
+    padding: 0 20px;
+    border-right:  1px solid rgb(198, 198, 240);
+   
+}
+.footer{
+    display: flex;
+    gap: 2rem;
+    padding: 20px 20px 20px 40px;
+}
+.long-logo{
+    width: 50%;
+    margin: 0 auto;
+}
+.long-logo p{
+    font-size: 28px;
+    font-weight: 600;
+}
+.long-logo .no{
+    font-size: 18px;
+}
+.long-logo .blu{
+    color: blue;
+}
+.long-logo .orange{
+    color: orange;
+}
+.long-logo .red{
+    color: red;
+}
+.long-logo .green{
+    color: green;
 }
