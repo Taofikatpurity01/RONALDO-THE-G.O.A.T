@@ -696,3 +696,9 @@ i{
 .long-logo .green{
     color: green;
 }
+.no .bl{
+    padding: 0 6px;
+}
+.no .blu{
+    padding:0 6px;
+}
